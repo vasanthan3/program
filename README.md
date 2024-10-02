@@ -1,7 +1,7 @@
 # program
 --------------------
-```c
 1.Static Array
+```
 #include <stdio.h>
 
 int main()
